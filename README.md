@@ -15,3 +15,4 @@ Publiceer de inhoud via een statische host, bijvoorbeeld Azure Static Web Apps, 
 
 ## Gegevens
 De actieve wedstrijd en volledige puntenhistorie worden lokaal in de browser opgeslagen via localStorage. De data wordt niet automatisch tussen apparaten gesynchroniseerd.
+Deployment retry
